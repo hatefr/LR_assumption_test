@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "LR_assumption_test"
+version = "0.1.0"
+description = "A package containing functions to test linearity assumptions for linear regression performed on single or multiple linear regression for a specified dataset"
+authors = ["Yair Guterman, Hatef Rahmani, Song Bo Andy Yang "]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
