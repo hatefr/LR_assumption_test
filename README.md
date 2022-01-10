@@ -14,6 +14,7 @@ $ pip install LR_assumption_test
 
 ## Contributing
 
+Authors: Yair Guterman, Hatef Rahmani, Song Bo Andy Yang  
 Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
 
 ## License
