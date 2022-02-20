@@ -1,6 +1,6 @@
 # LR_assumption_test
 
-A package containing functions to test linearity assumptions for linear regression performed on single or multiple linear regression for a specified dataset
+A package containing functions for testing linearity assumptions for linear regression performed on single or multiple linear regression for a specified dataset
 
 ## Installation
 
